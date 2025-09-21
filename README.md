@@ -1,6 +1,6 @@
-- 👋 Hi, I'm ZhangJingyu,a passionate self-taught backend developer from China 🚀.
+- 👋 Hi, I'm a developer from China 🚀.
 - 👀 I’m interested in ...
-- 📫 How to reach me ...861719293@qq.com
+- 📫 How to reach me ...861719293@qq.com / zjy861719293@gmail.com
 
 <!---
 Whale-Zhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
