@@ -1,6 +1,7 @@
-- 👋 Hi, I'm a developer from China 🚀.
-- 👀 I’m interested in ...
-- 📫 How to reach me ...861719293@qq.com / zjy861719293@gmail.com
+- 👋 Hi, I'm a developer 5 year
+- 📫 How to reach me ... zjy861719293@gmail.com
+- vibecoding
+- Feel free to chat with me; it’s been a long time since I’ve discussed projects with someone who is genuinely interested.
 
 <!---
 Whale-Zhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
